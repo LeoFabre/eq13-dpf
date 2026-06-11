@@ -1,6 +1,6 @@
 #pragma once
 
-#define DISTRHO_PLUGIN_BRAND       "Nexus"
+#define DISTRHO_PLUGIN_BRAND       "Dubplex"
 #define DISTRHO_PLUGIN_NAME        "EQ13"
 #define DISTRHO_PLUGIN_URI         "https://github.com/lfabre/eq13-dpf"
 #define DISTRHO_PLUGIN_CLAP_ID     "fr.nexus.eq13"
